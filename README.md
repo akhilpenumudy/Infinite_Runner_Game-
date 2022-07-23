@@ -1,2 +1,5 @@
-# Infinite_Runner_Game-
-A simple infinite runner made entirely in Java. 
+# Infinite Runner Game - Submitted as my final graphics project in AP Computer Science A
+
+☕️ Made entirely in Java 
+
+
